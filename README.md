@@ -5,7 +5,6 @@
  
 <!-- About Me -->
  <h4>About Me</h4> 
- <hr>
 
 - 👨‍💻 Python/Django Developer.<br>
 - 📫 How to reach me **chiragtaneja915@gmail.com**<br>
@@ -58,4 +57,4 @@
 </p>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=dev-chirag-taneja&label=Profile%20views&color=0e75b6&style=flat" alt="dev-chirag-taneja" /> </p>
-<hr>
+
