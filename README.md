@@ -6,11 +6,7 @@
 <br>
 
 <!-- About Me -->
-- 🔭 I’m currently working on a **Django Project**<br>
-- 🌱 I’m currently learning **Django Rest Framework**<br>
-- 👯 I’m looking to collaborate on **Django Project and building REST Api**<br>
-- 🤝 I’m looking for help with **ReactJs**<br>
-- 💬 Ask me about **Python, Django, Django Rest Framework, REST Api**<br>
+- 👨‍💻 Python/Django Developer**<br>
 - 📫 How to reach me **chiragtaneja915@gmail.com**<br>
 
 <!-- Languages, Frameworks and Tools -->
