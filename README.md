@@ -4,14 +4,14 @@
 <img align="right" alt="image" src="coder-2.png" width="30%" height="30%">
  
 <!-- About Me -->
- <h4>About Me</h4> 
+ #### About Me
 
 - 👨‍💻 Python/Django Developer.<br>
-- 📫 How to reach me **chiragtaneja915@gmail.com**<br>
-
+- 📫 How to reach me **chiragtaneja915@gmail.com**
+ 
+---
 <!-- Languages, Frameworks and Tools -->
-<h4 align="left">Languages, Frameworks and Tools:</h3>
-<hr>
+#### Languages, Frameworks and Tools:
 <a align="left">
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
@@ -35,24 +35,21 @@
  ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=Insomnia&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 </a>
-
-
+ <hr>
+ 
 <!-- Connect with me: -->
-<h4 align="left">Connect with me:</h3>
-<hr> 
+#### Connect with me:
 <div align="left">
 <a  href="https://www.linkedin.com/in/chirag-taneja-b647981a4/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:chiragtaneja915@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-</div>
-<br>
-
-<!-- Github Statistics: -->
-<h4 align="left">Github Statistics:</h3>
+</div> 
 <hr>
+ 
+<!-- Github Statistics -->
+#### Github Statistics:
 <p>
 <img width="54%" src="https://github-readme-stats.vercel.app/api?username=dev-chirag-taneja&show_icons=true" />
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-chirag-taneja&show_icons=true&locale=en&layout=compact&langs_count=5" />
 </p>
-
 <p align="left"><img src="https://komarev.com/ghpvc/?username=dev-chirag-taneja&label=Profile%20views&color=0e75b6&style=flat" alt="dev-chirag-taneja" /> </p>
 
