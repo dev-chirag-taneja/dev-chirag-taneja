@@ -6,7 +6,7 @@
 <br>
 
 <!-- About Me -->
-- 👨‍💻 Python/Django Developer**<br>
+- 👨‍💻 Python/Django Developer<br>
 - 📫 How to reach me **chiragtaneja915@gmail.com**<br>
 
 <!-- Languages, Frameworks and Tools -->
