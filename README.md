@@ -43,8 +43,6 @@
 <div align="left">
 <a  href="https://www.linkedin.com/in/chirag-taneja-b647981a4/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:chiragtaneja915@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-<a href="https://www.hackerrank.com/chirag_taneja?hr_r=1"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=HackerRank&logoColor=white" />
-<a href="https://www.codewars.com/users/dev-chirag-taneja"><img alt="Codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white" />
 </div>
 <br>
 
