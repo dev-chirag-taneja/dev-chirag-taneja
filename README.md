@@ -1,12 +1,12 @@
 ## Hi there👋, I'm <a>[Chirag Taneja!](https://www.linkedin.com/in/chirag-taneja-b647981a4/)
-<h4> I'm an undergraduate Computer Application student and a Full Stack Developer.</h4>
 
 <!-- Image -->
 <img align="right" alt="image" src="coder-2.png" width="30%" height="30%">
-<br>
-
+ 
 <!-- About Me -->
-- 👨‍💻 Python/Django Developer<br>
+ <h4>About Me</h4> 
+ 
+- 👨‍💻 Full Stack Developer.<br>
 - 📫 How to reach me **chiragtaneja915@gmail.com**<br>
 
 <!-- Languages, Frameworks and Tools -->
