@@ -5,8 +5,9 @@
  
 <!-- About Me -->
  <h4>About Me</h4> 
- 
-- 👨‍💻 Full Stack Developer.<br>
+ <hr>
+
+- 👨‍💻 Python/Django Developer.<br>
 - 📫 How to reach me **chiragtaneja915@gmail.com**<br>
 
 <!-- Languages, Frameworks and Tools -->
@@ -51,6 +52,10 @@
 <!-- Github Statistics: -->
 <h4 align="left">Github Statistics:</h3>
 <hr>
-<p  align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=dev-chirag-taneja&show_icons=true&locale=en" alt="chiragtaneja" /></p>
+<p>
+<img width="54%" src="https://github-readme-stats.vercel.app/api?username=dev-chirag-taneja&show_icons=true" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-chirag-taneja&show_icons=true&locale=en&layout=compact&langs_count=5" />
+</p>
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=dev-chirag-taneja&label=Profile%20views&color=0e75b6&style=flat" alt="dev-chirag-taneja" /> </p>
 <hr>
