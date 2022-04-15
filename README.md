@@ -6,7 +6,7 @@
 <!-- About Me -->
  #### About Me
 
-- 👨‍💻 Python/Django Developer.<br>
+- 👨‍💻 Full Stack Developer.<br>
 - 📫 How to reach me **chiragtaneja915@gmail.com**
  
 ---
@@ -21,7 +21,7 @@
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-CB3837?style=flat-square&logo=django&logoColor=white) 
+![Django Rest Framework](https://img.shields.io/badge/Rest_Framework-CB3837?style=flat-square&logo=django&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white)
