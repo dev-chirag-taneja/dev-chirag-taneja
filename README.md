@@ -1,50 +1,59 @@
-## Hi there👋, I'm <a>[Chirag Taneja!](https://www.linkedin.com/in/chirag-taneja-b647981a4/)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
+</div>
+
+<h3 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width=40>, I'm Chirag Taneja</h3>
+<h3 align="center">ReactJs Developer | React Native Developer</h3>
+<h3 align="center">Master in Computer Application (MCA) </h3> 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=dev-chirag-taneja&label=Profile%20views&color=0e75b6&style=flat" alt="dev-chirag-taneja" /></p>
+<hr>
 
 <!-- Image -->
-<img align="right" alt="image" src="coder-2.png" width="30%" height="30%">
+<img width="30%" align="right" alt="GIF" src="coder-1.gif" />
  
 <!-- About Me -->
  #### About Me
-
-- 👨‍💻 Full Stack Developer.<br>
+- 😄 Employement ... **Open for better full-time offers**
+- 🌱 I’m currently learning **React Native**
+- 👨‍💻 All of my projects are available at [https://github.com/dev-chirag-taneja](https://github.com/PragatiVerma18)
+- 💬 Ask me about **ReactJs, React Native & Django**
+- 📫 How to reach me **chiragtaneja915@gmail.com**
+- ⚡ Fun fact **Coffee over anything!!**
  
 ---
+
 <!-- Languages, Frameworks and Tools -->
-#### Languages, Frameworks and Tools:
-<a align="left">
+<h4>Programming Languages: </h4>
+<p align="left">
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white)
-![Reactjs](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Django Rest Framework](https://img.shields.io/badge/Rest_Framework-CB3837?style=flat-square&logo=django&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![Github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white)
-![Mysql](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=Insomnia&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-</a>
- <hr>
- 
-<!-- Connect with me: -->
-#### Connect with me:
-<div align="left">
-<a  href="https://www.linkedin.com/in/chirag-taneja-b647981a4/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:chiragtaneja915@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-</div> 
-<hr>
- 
-<!-- Github Statistics -->
-#### Github Statistics:
-<p>
-<img width="54%" src="https://github-readme-stats.vercel.app/api?username=dev-chirag-taneja&show_icons=true" />
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-chirag-taneja&show_icons=true&locale=en&layout=compact&langs_count=5" />
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 </p>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=dev-chirag-taneja&label=Profile%20views&color=0e75b6&style=flat" alt="dev-chirag-taneja" /> </p>
 
+<h4>Skills and Tools: </h4>
+<p align="left">
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,materialui,redux,python,django,mysql,git,github,heroku,firebase,graphql,netlify&perline=8)](https://skillicons.dev)
+ 
+</p>
+
+<h4>Desktop Environment: </h4>
+<p align="left">
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,linux,discord,ubuntu&perline=8)](https://skillicons.dev)
+
+</p>
+<hr>
+
+<!-- Github Statistics -->
+### Github Statistics:
+<p>
+<img width="54%" src="https://github-readme-stats.vercel.app/api?username=dev-chirag-taneja&count_private=true&theme=dark&show_icons=true" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-chirag-taneja&show_icons=true&count_private=true&theme=dark&locale=en&layout=compact&langs_count=5" />
+</p>
+<hr>
+
+### Connect with me  
+<div align="center">
+<a  href="https://www.linkedin.com/in/chirag-taneja-b647981a4/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:chiragtaneja915@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</div> 
