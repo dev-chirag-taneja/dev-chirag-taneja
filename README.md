@@ -2,9 +2,9 @@
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
 
-<h4 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width=40>, I'm Chirag Taneja</h4>
-<h4 align="center">ReactJs Developer | React Native Developer</h4>
-<h4 align="center">Master in Computer Application (MCA) </h4> 
+<h3 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width=40>, I'm Chirag Taneja</h3>
+<h3 align="center">ReactJs Developer | React Native Developer</h3>
+<h3 align="center">Master in Computer Application (MCA) </h3> 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=dev-chirag-taneja&label=Profile%20views&color=0e75b6&style=flat" alt="dev-chirag-taneja" /></p>
 <hr>
 
