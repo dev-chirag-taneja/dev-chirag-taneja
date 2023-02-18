@@ -15,7 +15,7 @@
  #### About Me
 - 😄 Employement ... **Open for better full-time offers**
 - 🌱 I’m currently learning **React Native**
-- 👨‍💻 All of my projects are available at [https://github.com/dev-chirag-taneja](https://github.com/PragatiVerma18)
+- 👨‍💻 All of my projects are available at [https://github.com/dev-chirag-taneja](https://github.com/dev-chirag-taneja)
 - 💬 Ask me about **ReactJs, React Native & Django**
 - 📫 How to reach me **chiragtaneja915@gmail.com**
 - ⚡ Fun fact **Coffee over anything!!**
