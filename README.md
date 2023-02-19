@@ -30,13 +30,13 @@ Chirag Taneja</a></h3>
 <h4>Programming Languages: </h4>
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js)](https://skillicons.dev)
 </p>
 
 <h4>Skills and Tools: </h4>
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,materialui,redux,python,django,mysql,git,github,heroku,firebase,graphql,netlify&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,materialui,redux,python,django,mysql,git,github,heroku,firebase,graphql,netlify)](https://skillicons.dev)
  
 </p>
 
@@ -64,8 +64,9 @@ Chirag Taneja</a></h3>
 <hr>
 <div align="center">
 <a  href="https://www.linkedin.com/in/chirag-taneja-b647981a4/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a  href="https://leetcode.com/chiragtaneja915/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/leetcode-%23323330.svg?style=for-the-badge&logo=leetcode&logoColor=%23F7DF1E" /></a>
-<a  href="" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-6236FF?style=for-the-badge&logo=website&logoColor=white" /></a>
+<a  href="https://leetcode.com/chiragtaneja915/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/leetcode-%23323330.svg?style=for-the-badge&logo=leetcode&logoColor=%23F7DF1E" /></a>
+<a  href="https://www.hackerrank.com/chirag_taneja" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 <a href="mailto:chiragtaneja915@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a  href="" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-6236FF?style=for-the-badge&logo=portfolio&logoColor=white" /></a>
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-#C70D2C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/) -->
 </div> 
