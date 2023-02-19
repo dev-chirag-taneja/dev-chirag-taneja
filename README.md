@@ -43,7 +43,7 @@ Chirag Taneja</a></h3>
 <h4>Desktop Environment: </h4>
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,linux,discord,ubuntu&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,linux&perline=8)](https://skillicons.dev)
 
 </p>
 
