@@ -27,25 +27,25 @@ Chirag Taneja</a></h3>
 ---
 
 <!-- Languages, Frameworks and Tools -->
-<h4>Programming Languages: </h4>
-<p align="left">
+<h4 align="center">Programming Languages: </h4>
+<div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=python,js)](https://skillicons.dev)
-</p>
+</div>
 
-<h4>Skills and Tools: </h4>
-<p align="left">
+<h4 align="center">Skills and Tools: </h4>
+<div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,materialui,redux,python,django,mysql,git,github,heroku,firebase,graphql,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,materialui,redux,python,django,git,github,heroku,firebase,graphql,netlify&perline=8)](https://skillicons.dev)
  
-</p>
+</div>
 
-<h4>Desktop Environment: </h4>
-<p align="left">
+<h4 align="center">Desktop Environment: </h4>
+<div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,linux&perline=8)](https://skillicons.dev)
 
-</p>
+</div>
 
 <!-- Github Statistics -->
 ### Github Statistics
