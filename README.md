@@ -23,7 +23,6 @@ Chirag Taneja</a></h3>
 -  All of my projects are available at [https://github.com/dev-chirag-taneja](https://github.com/dev-chirag-taneja)
 - Ask me about **ReactJs and React Native**
 - How to reach me **chiragtaneja915@gmail.com**
-- Fun fact **Coffee over anything!!**
  
 ---
 
