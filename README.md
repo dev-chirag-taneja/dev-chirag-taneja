@@ -19,9 +19,9 @@ Chirag Taneja</a></h3>
 - Employement ... **Open for better full-time offers**
 - I will graduated in 2024 from DIT University, Dehradun (MCA) with a CGPA of ___.
 - I’m currently learning **ReactJs**.
-- I’m looking to collaborate on projects based on ReactJs, Django, Fastapi.
+- I’m looking to collaborate on projects based on ReactJs, Django.
 -  All of my projects are available at [https://github.com/dev-chirag-taneja](https://github.com/dev-chirag-taneja).
-- Ask me about **ReactJs, Django, FastApi**
+- Ask me about **ReactJs, Django**
 - How to reach me **chiragtaneja915@gmail.com**.
  
 ---
@@ -30,7 +30,7 @@ Chirag Taneja</a></h3>
 <h4 align="center">Languages and Frameworks </h4>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,html,css,js,bootstrap,tailwind,react,materialui,redux,git,github,heroku,firebase,sqlite,graphql,netlify,vscode,linux&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,tailwind,react,materialui,redux,next,git,github,heroku,firebase,sqlite,graphql,netlify,vscode,linux&perline=10)](https://skillicons.dev)
 </div>
 
 <!-- Github Statistics -->
