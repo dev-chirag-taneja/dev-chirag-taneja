@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
 <img src="Hello.gif" align="center"/>
-</div>
+</div> -->
 
 <h3 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width=40>,
  I'm <a href="https://www.linkedin.com/in/chirag-taneja-b647981a4/" target="_blank">
@@ -19,7 +19,7 @@ Chirag Taneja</a></h3>
 - Employement ... **Open for better full-time offers**
 - I will graduated in 2024 from DIT University, Dehradun (MCA) with a CGPA of ___
 - I’m currently learning **ReactJs**
-- I’m looking to collaborate on projects based on ReactJs and Django.
+- I’m looking to collaborate on projects based on ReactJs and Django
 -  All of my projects are available at [https://github.com/dev-chirag-taneja](https://github.com/dev-chirag-taneja)
 - Ask me about **ReactJs, Django**
 - How to reach me **chiragtaneja915@gmail.com**
