@@ -1,6 +1,6 @@
-<!-- <div align="center">
+<div align="center">
 <img src="Hello.gif" align="center"/>
-</div> -->
+</div>
 
 <h3 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width=40>,
  I'm <a href="https://www.linkedin.com/in/chirag-taneja-b647981a4/" target="_blank">
