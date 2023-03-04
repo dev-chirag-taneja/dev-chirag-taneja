@@ -1,14 +1,14 @@
-<div align="center">
+<!-- <div align="center">
 <img src="Hello.gif" align="center"/>
-</div>
+</div> -->
 
-<h3 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width=40>,
- I'm <a href="https://www.linkedin.com/in/chirag-taneja-b647981a4/" target="_blank">
-Chirag Taneja</a></h3>
+<h1 align="center">Hi  👋 <!-- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width=40> -->,
+ I'm <a href="https://www.linkedin.com/in/chirag-taneja/" target="_blank">
+Chirag 👨‍💻</a></h1>
 
-<h3 align="center">Full Stack Developer</h3>
-<h3 align="center">Master of Computer Applications (MCA) </h3>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=dev-chirag-taneja&label=Profile%20views&color=0e75b6&style=flat" alt="dev-chirag-taneja" /></p>
+<p align="center">Web Dev | Full Stack Dev</p>
+<!-- <p align="center">Master of Computer Applications (MCA) </p> -->
+<p align="center"><img src="https://komarev.com/ghpvc/?username=dev-chirag-taneja&label=Profile%20views&color=blueviolet&style=flat" alt="dev-chirag-taneja" /></p>
 <hr>
 
 <!-- Image -->
@@ -49,10 +49,11 @@ Chirag Taneja</a></h3>
 ### <img class="emoji" alt="handshake" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png">  Let's stay connected!
 <hr>
 <div align="center">
-<a  href="https://www.linkedin.com/in/chirag-taneja-b647981a4/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a  href="https://www.linkedin.com/in/chirag-taneja/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:chiragtaneja915@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a  href="" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-%23E4405F.svg?&style=for-the-badge&logo=portfolio&logoColor=white" /></a>
+<!--
 <a  href="https://leetcode.com/chiragtaneja915/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/leetcode-%23323330.svg?style=for-the-badge&logo=leetcode&logoColor=%23F7DF1E" /></a>
 <a  href="https://www.hackerrank.com/chirag_taneja" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-<a href="mailto:chiragtaneja915@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<a  href="" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-6236FF?style=for-the-badge&logo=portfolio&logoColor=white" /></a>
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-#C70D2C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-#C70D2C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-taneja/) -->
 </div> 
