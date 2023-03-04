@@ -9,7 +9,7 @@ Chirag 👨‍💻</a></h1>
 <p align="center">Web Dev | Full Stack Dev</p>
 <!-- <p align="center">Master of Computer Applications (MCA) </p> -->
 <p align="center"><img src="https://komarev.com/ghpvc/?username=dev-chirag-taneja&label=Profile%20views&color=blueviolet&style=flat" alt="dev-chirag-taneja" /></p>
-<hr>
+<!-- <hr> -->
 
 <!-- Image -->
 <img width="30%" align="right" alt="GIF" src="coder-1.gif" />
@@ -24,7 +24,7 @@ Chirag 👨‍💻</a></h1>
 - Ask me about **ReactJs, Django**
 - How to reach me **chiragtaneja915@gmail.com**.
  
----
+<!-- --- -->
 
 <!-- Languages and Frameworks -->
 <h4 align="center">Languages and Frameworks </h4>
@@ -35,7 +35,7 @@ Chirag 👨‍💻</a></h1>
 
 <!-- Github Statistics -->
 ### Github Statistics
-<hr>
+<!-- <hr> -->
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
     <thead>
@@ -47,7 +47,7 @@ Chirag 👨‍💻</a></h1>
 </table>
 
 ### <img class="emoji" alt="handshake" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png">  Let's stay connected!
-<hr>
+<!-- <hr> -->
 <div align="center">
 <a  href="https://www.linkedin.com/in/chirag-taneja/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:chiragtaneja915@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
