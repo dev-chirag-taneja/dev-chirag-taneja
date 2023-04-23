@@ -18,7 +18,7 @@ Chirag 👨‍💻</a></h1>
  #### About Myself
 - Employement ... **Open for better full-time offers**
 - I will graduated in 2024 from DIT University, Dehradun (MCA).
-- I’m currently learning **ReactJs, NextJs**.
+- I’m currently learning **ReactJs, ExpreesJs**.
 - I’m looking to collaborate on projects based on ReactJs, Django.
 -  All of my projects are available at [https://github.com/dev-chirag-taneja](https://github.com/dev-chirag-taneja).
 - Ask me about **ReactJs, Django**
