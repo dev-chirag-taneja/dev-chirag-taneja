@@ -6,7 +6,7 @@
  I'm <a href="https://www.linkedin.com/in/chirag-taneja/" target="_blank">
 Chirag 👨‍💻</a></h1>
 
-<p align="center">Web Dev | Mob Dev</p>
+<p align="center">Web Dev | Full Stack Dev</p>
 <!-- <p align="center">Master of Computer Applications (MCA) </p> -->
 <p align="center"><img src="https://komarev.com/ghpvc/?username=dev-chirag-taneja&label=Profile%20views&color=blueviolet&style=flat" alt="dev-chirag-taneja" /></p>
 <!-- <hr> -->
@@ -18,10 +18,10 @@ Chirag 👨‍💻</a></h1>
  #### About Myself
 - Employement ... **Open for better full-time offers**
 - I will graduated in 2024 from DIT University, Dehradun (MCA).
-- I’m currently learning **ReactJs, React Native**.
-- I’m looking to collaborate on projects based on ReactJs, React Native.
+- I’m currently learning **ReactJs**.
+- I’m looking to collaborate on projects based on ReactJs, Django.
 -  All of my projects are available at [https://github.com/dev-chirag-taneja](https://github.com/dev-chirag-taneja).
-- Ask me about **ReactJs, React Native**
+- Ask me about **ReactJs, Django**
 - How to reach me **chiragtaneja915@gmail.com**.
  
 <!-- --- -->
