@@ -16,12 +16,12 @@ Chirag 👨‍💻</a></h1>
  
 <!-- About Me -->
  #### About Myself
-- Employement ... **Open for better full-time offers**
-- I will graduated in 2024 from DIT University, Dehradun (MCA).
-- I’m currently learning **ReactJs**.
-- I’m looking to collaborate on projects based on ReactJs, Django.
+- Employment ... **Open for better full-time offers**
+- I will graduate in 2024 from DIT University, Dehradun (MCA).
+- I’m currently learning **ReactJs and React Native**.
+- I’m looking to collaborate on projects based on ReactJs, and React Native.
 -  All of my projects are available at [https://github.com/dev-chirag-taneja](https://github.com/dev-chirag-taneja).
-- Ask me about **ReactJs, Django**
+- Ask me about **ReactJs, React Native**
 - How to reach me **chiragtaneja915@gmail.com**.
  
 <!-- --- -->
@@ -30,7 +30,7 @@ Chirag 👨‍💻</a></h1>
 <h4 align="center">Languages and Frameworks </h4>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,tailwind,react,materialui,redux,next,git,github,heroku,firebase,sqlite,graphql,netlify,vscode,linux&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,tailwind,react,materialui,redux,next,git,github,heroku,firebase,sqlite,graphql,vercel,vscode,linux&perline=10)](https://skillicons.dev)
 </div>
 
 <!-- Github Statistics -->
