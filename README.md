@@ -6,7 +6,7 @@
  I'm <a href="https://www.linkedin.com/in/chirag-taneja/" target="_blank">
 Chirag 👨‍💻</a></h1>
 
-<p align="center">Web Dev | Full Stack Dev</p>
+<p align="center">Web Dev | Mobile Dev</p>
 <!-- <p align="center">Master of Computer Applications (MCA) </p> -->
 <p align="center"><img src="https://komarev.com/ghpvc/?username=dev-chirag-taneja&label=Profile%20views&color=blueviolet&style=flat" alt="dev-chirag-taneja" /></p>
 <!-- <hr> -->
